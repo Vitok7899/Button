@@ -1,0 +1,16 @@
+C:\Users\victo\source\repos\Практическая10\Практическая10\bin\Debug\Практическая10.exe.config
+C:\Users\victo\source\repos\Практическая10\Практическая10\bin\Debug\Практическая10.exe
+C:\Users\victo\source\repos\Практическая10\Практическая10\bin\Debug\Практическая10.pdb
+C:\Users\victo\source\repos\Практическая10\Практическая10\obj\Debug\Практическая10.csproj.AssemblyReference.cache
+C:\Users\victo\source\repos\Практическая10\Практическая10\obj\Debug\Практическая10.csproj.SuggestedBindingRedirects.cache
+C:\Users\victo\source\repos\Практическая10\Практическая10\obj\Debug\MainWindow.g.cs
+C:\Users\victo\source\repos\Практическая10\Практическая10\obj\Debug\App.g.cs
+C:\Users\victo\source\repos\Практическая10\Практическая10\obj\Debug\Практическая10_MarkupCompile.cache
+C:\Users\victo\source\repos\Практическая10\Практическая10\obj\Debug\Практическая10_MarkupCompile.lref
+C:\Users\victo\source\repos\Практическая10\Практическая10\obj\Debug\MainWindow.baml
+C:\Users\victo\source\repos\Практическая10\Практическая10\obj\Debug\Практическая10.g.resources
+C:\Users\victo\source\repos\Практическая10\Практическая10\obj\Debug\Практическая10.Properties.Resources.resources
+C:\Users\victo\source\repos\Практическая10\Практическая10\obj\Debug\Практическая10.csproj.GenerateResource.cache
+C:\Users\victo\source\repos\Практическая10\Практическая10\obj\Debug\Практическая10.csproj.CoreCompileInputs.cache
+C:\Users\victo\source\repos\Практическая10\Практическая10\obj\Debug\Практическая10.exe
+C:\Users\victo\source\repos\Практическая10\Практическая10\obj\Debug\Практическая10.pdb
